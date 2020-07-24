@@ -59,4 +59,8 @@ public class Geometric {
         System.out.println("x = " + x + " y = " + y);
         return (2 * x * y) / 3;
     }
+
+    private static void print() {
+        System.out.println("abc");
+    }
 }
